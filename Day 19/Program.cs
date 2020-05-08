@@ -1,8 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
+﻿/*
+ * **********************************************************
+ * Строка для соединения с сервером и БД описана в файле App.config
+ * ********************************************************** 
+ */
+
+
+using System;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Day_19
 {

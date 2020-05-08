@@ -1,1 +1,12 @@
 C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\bin\Debug\Day 19.exe.config
+C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\bin\Debug\Day 19.exe
+C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\bin\Debug\Day 19.pdb
+C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\bin\Debug\EntityFramework.dll
+C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\bin\Debug\EntityFramework.xml
+C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\obj\Debug\Day 19.csprojResolveAssemblyReference.cache
+C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\obj\Debug\Day 19.exe
+C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\obj\Debug\Day 19.pdb
+C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\obj\Debug\Day_19.Migrations.AddArticleToDb.resources
+C:\Users\Faridun\Allif Academy\Day 19\Day 19\Day 19\obj\Debug\Day 19.csproj.GenerateResource.Cache
